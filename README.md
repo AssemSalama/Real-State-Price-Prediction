@@ -10,7 +10,7 @@
 6. K fold cross validation
 
 ## 3️⃣ Project Steps:
-``
+```
 Step1: Import the required libraries
 Step2: Load the data
 Step3: - Understand the data
