@@ -15,6 +15,7 @@ Step1: Import the required libraries
 Step2: Load the data
 Step3: - Understand the data
        - drop unnecessary columns
+       
 Step4: - Data Cleaning
         - Check for na values
         - Verify unique values of each column
