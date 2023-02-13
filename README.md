@@ -10,7 +10,7 @@
 6. K fold cross validation
 
 ## 3️⃣ Project Steps:
-'''
+``
 Step1: Import the required libraries
 Step2: Load the data
 Step3: - Understand the data
@@ -27,4 +27,4 @@ Step4: - Data Cleaning
 Step5: Build Machine Learning Model
 Step6: Testing The model
 Step7: Export the model
-'''
+```
