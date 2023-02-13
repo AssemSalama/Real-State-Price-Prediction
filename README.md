@@ -25,6 +25,7 @@ Step4: - Data Cleaning
         - Outlier removal using domain knowledge (2bhk price < 3bhk price, size per bhk >= 300 sqft)
         - Outlier removal using standard eviation and mean
         - One Hot encoding
+        
 Step5: Build Machine Learning Model
 Step6: Testing The model
 Step7: Export the model
